@@ -1,0 +1,1 @@
+harmless event fixture
